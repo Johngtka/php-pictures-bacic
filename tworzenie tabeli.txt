@@ -1,0 +1,2 @@
+CREATE TABLE `zdjecia`( id INT NOT NULL AUTO_INCREMENT , zdjecie TEXT NOT NULL , PRIMARY KEY (id)) ENGINE = InnoDB;
+INSERT INTO zdjecia(id,zdjecie)VALUES(NULL,"rammstein.png")
